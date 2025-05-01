@@ -1,4 +1,4 @@
-## PedroRBrito 🗿
+# PedroRBrito 🗿
 
 Sou desenvolvedor Full Stack com experiência em Flutter e Python, focado na criação de aplicações mobile e web. Já trabalhei com integração de APIs, Clean Architecture, automação e acessibilidade, além de desenvolver sistemas usando Python e MySQL.
 
@@ -6,7 +6,7 @@ Atualmente, estou expandindo meus conhecimentos para Inteligência Artificial e 
 
 ---
 
-# Já atuei em projetos como:
+## Já atuei em projetos como:
  - ✅ Desenvolvimento de CMS e APIs para aplicações web com Laravel e Vue.js.
  - ✅ Criação de apps em Flutter, incluindo integração com Google Maps e autenticação.
  - ✅ Automação com Python, como um chatbot no Telegram para monitoramento de TI via Zabbix.
