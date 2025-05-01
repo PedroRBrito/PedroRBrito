@@ -4,9 +4,7 @@ Sou desenvolvedor Full Stack com experiência em Flutter e Python, focado na cri
 
 Atualmente, estou expandindo meus conhecimentos para Inteligência Artificial e Machine Learning, explorando NLP, Deep Learning e automação com IA. Meu objetivo é integrar IA em soluções reais, como chatbots inteligentes e análises preditivas.
 
----
-
-## Já atuei em projetos como:
+ Já atuei em projetos como:
  - ✅ Desenvolvimento de CMS e APIs para aplicações web com Laravel e Vue.js.
  - ✅ Criação de apps em Flutter, incluindo integração com Google Maps e autenticação.
  - ✅ Automação com Python, como um chatbot no Telegram para monitoramento de TI via Zabbix.
@@ -19,7 +17,7 @@ Atualmente, estou expandindo meus conhecimentos para Inteligência Artificial e 
 
 🔍 Sempre aberto a novos desafios e conexões na área de IA e desenvolvimento!
 
----
+
 
 ## Conecte-se comigo
 
