@@ -11,7 +11,7 @@ Atualmente, estou expandindo meus conhecimentos para Inteligência Artificial e 
  - ✅ Automação com Python, como um chatbot no Telegram para monitoramento de TI via Zabbix.
  - ✅ Manutenção de aplicações web para grandes eventos, como a cobertura da Copa do Mundo de 2022.
 
-# Busco oportunidades para aplicar IA em produtos e sistemas, combinando minha experiência em desenvolvimento com tecnologias de Machine Learning.
+ Busco oportunidades para aplicar IA em produtos e sistemas, combinando minha experiência em desenvolvimento com tecnologias de Machine Learning.
 
  - 📌 Habilidades: Flutter, Python, MySQL, AWS
  - 📌 Ferramentas: Git, GitHub, VS Code, Trello, Figma
