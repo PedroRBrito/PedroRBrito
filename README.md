@@ -1,19 +1,17 @@
 # PedroRBrito 🗿
 
-Sou desenvolvedor Full Stack com experiência em Flutter e Python, focado na criação de aplicações mobile e web. Já trabalhei com integração de APIs, Clean Architecture, automação e acessibilidade, além de desenvolver sistemas usando Python e MySQL.
+Olá! Sou Desenvolvedor Full Stack e, nos últimos 3 anos, minha grande paixão tem sido o Python. Com ele, já construí de tudo um pouco: aplicações web, apps mobile com Flutter e sistemas backend robustos, mexendo bastante com APIs e bancos de dados MySQL. O que sempre me brilhou os olhos foi encontrar formas de usar a tecnologia para simplificar processos e tornar o trabalho mais eficiente – é esse o desafio que me move!
 
-Atualmente, estou expandindo meus conhecimentos para Inteligência Artificial e Machine Learning, explorando NLP, Deep Learning e automação com IA. Meu objetivo é integrar IA em soluções reais, como chatbots inteligentes e análises preditivas.
+ Foi com essa mentalidade que criei alguns projetos de automação que tenho orgulho de mostrar. O 'excel_automation', por exemplo (dá uma olhada no meu GitHub!), é uma aplicação desktop que fiz com PyQt5 e Pandas para facilitar (e muito!) a vida de quem precisa ler, comparar e exportar dados de planilhas. Também já me aventurei a automatizar todo o fluxo de transformar Excels em PDFs, adicionar textos personalizados e enviar por e-mail. Ver uma tarefa complexa virar algo simples com algumas linhas de código é muito gratificante.
 
- Já atuei em projetos como:
- - ✅ Desenvolvimento de CMS e APIs para aplicações web com Laravel e Vue.js.
- - ✅ Criação de apps em Flutter, incluindo integração com Google Maps e autenticação.
- - ✅ Automação com Python, como um chatbot no Telegram para monitoramento de TI via Zabbix.
- - ✅ Manutenção de aplicações web para grandes eventos, como a cobertura da Copa do Mundo de 2022.
+ Agora, estou com foco total em mergulhar de cabeça na Automação Robótica de Processos (RPA). Quero muito levar essa minha bagagem em Python e desenvolvimento, junto com essa vontade de automatizar, para encarar novos desafios como Desenvolvedor RPA. Estou animado para aprender e crescer nessa área que está sempre evoluindo!
 
- Busco oportunidades para aplicar IA em produtos e sistemas, combinando minha experiência em desenvolvimento com tecnologias de Machine Learning.
+ Se quiser conhecer mais dos meus projetos ou trocar uma ideia sobre o código, meu GitHub está aí: https://github.com/PedroRBrito
 
- - 📌 Habilidades: Flutter, Python, MySQL, AWS
- - 📌 Ferramentas: Git, GitHub, VS Code, Trello, Figma
+ Busco oportunidades para aplicar RPA em produtos e sistemas, combinando minha experiência em desenvolvimento com tecnologias de automação.
+
+📌 Habilidades: Flutter, Python, MySQL, AWS, Pandas, PyQt5, Openpyxl, Reportlab
+📌 Ferramentas: Git, GitHub, VS Code, Trello, Figma
 
 🔍 Sempre aberto a novos desafios e conexões na área de IA e desenvolvimento!
 
