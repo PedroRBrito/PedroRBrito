@@ -1,6 +1,6 @@
 # PedroRBrito 🗿
 
-Olá! Sou Desenvolvedor RPA e Backend, com sólida experiência em Python aplicada à auditoria, conciliação de processos financeiros e automação de backoffice em grandes empresas. Ao longo da minha trajetória, atuei criando soluções robustas integrando sistemas via APIs RESTful (Oracle TOA e SOM), orquestrando fluxos em ferramentas como Pipefy e JIRA, e manipulando grandes volumes de dados operacionais[cite: 1, 3].
+Olá! Sou Desenvolvedor RPA e Backend, com sólida experiência em Python aplicada à auditoria, conciliação de processos financeiros e automação de backoffice em grandes empresas. Ao longo da minha trajetória, atuei criando soluções robustas integrando sistemas via APIs RESTful (Oracle TOA e SOM), orquestrando fluxos em ferramentas como Pipefy e JIRA, e manipulando grandes volumes de dados operacionais.
 
 O que sempre me moveu foi encontrar formas de usar a tecnologia para eliminar gargalos, otimizar operações complexas e tornar o trabalho mais eficiente. Seja desenvolvendo aplicações desktop com PyQt5 e Pandas para consolidação de planilhas, criando automações de relatórios em PDF com envio por e-mail, ou sustentando robôs corporativos de alto impacto, ver tarefas burocráticas se resolverem com código é o que me motiva.
 
